@@ -1,0 +1,4 @@
+git remote add origin git@github.com:343000517/test.git
+
+git config --global user.name "343000517" 
+git config --global user.email "343000517@qq.com"  
